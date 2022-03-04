@@ -1,5 +1,5 @@
 
-# Project 1 - Intro To Data Science
+# Project 1 - Topics in Data Science
 ## Data Cleaning
 
 by Justin Huther
