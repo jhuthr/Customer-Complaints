@@ -9,7 +9,6 @@ by Justin Huther
 Pictures with descriptors can be found in INSTRUCTIONS.pdf.  
 This file also shows what the expected Jupyter Notebook outputs are.
 
--
 
 To run, open `Customer Complaints.ipynb` in Jupyter Notebook.
 
